@@ -1,0 +1,48 @@
+h1{
+	font-style:bold;
+	color: black;
+	font:sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	border: solid red 8px;
+	padding-bottom: 20px
+
+}
+
+
+img{
+	size: 40px;
+}
+
+
+h3{
+	color: red;
+	font:sans-serif;
+	align-self: center;
+	animation: 
+}
+
+
+.SERVICES{
+	font: bold;
+    align-items: right; 
+
+
+} 
+h4{ 
+   font: serif;
+   color: black;
+   font-style:italic;
+   align-items: center;
+
+}
+body{
+	background:
+	url(places.jpg);
+	}
+
+img{
+	align-self: center;
+
+
+}	
